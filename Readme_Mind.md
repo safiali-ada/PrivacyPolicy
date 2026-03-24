@@ -22,23 +22,12 @@ When you use the Share Extension to save a link from Safari, Instagram, or other
 *   TheMind connects briefly to the target website to fetch publicly available metadata (like the site title, domain, and an image thumbnail) to generate a rich preview.
 *   This connection happens directly from your device to the website. We do not track the URLs you save, nor do we run analytics on your saved links.
 
-### 4. iCloud Sync (If Enabled)
-If you have iCloud enabled on your device, Apple may backup your app data (including your thoughts and media) to your personal iCloud account so you can restore it if you lose your device. This happens exclusively through your encrypted Apple ID. We have no access to your iCloud data.
-
-### 5. Third-Party Analytics and Tracking
+### 4. Third-Party Analytics and Tracking
 We do **not** use any third-party analytics services (like Google Analytics, Mixpanel, or Facebook Pixel). We do **not** track your behavior, log your usage, or sell your data to advertisers. 
 
-### 6. Changes to This Privacy Policy
+### 5. Changes to This Privacy Policy
 We may update this policy if we introduce new features (such as opt-in syncing). If we do, we will update the "Effective Date" at the top of this policy. Your continued use of the app constitutes your agreement to any changes.
 
-### 7. Contact Us
-If you have any questions or concerns about your privacy or the security of your data, please contact us at:
-[**Your Support Email Address or Twitter/X Handle**]
+
 
 ***
-
-### 💡 Pro-tip for App Store Submission
-*When you submit the app to the App Store, Apple will ask you to fill out the "App Privacy" labels.* 
-Because of how TheMind is built, your answers are super easy:
-*   **Data Collection:** Select **"No, we do not collect data from this app."** 
-*(Since the data stays on the user's device and isn't sent to "you" as the developer, it does not count as data collection under Apple's definitions).*
